@@ -10,7 +10,7 @@ site-twitter: #if your site has a twitter account, enter it here
 author: Martin Smith # add your name
 author-img:  martin_smith.jpg # add your photo
 about-author: I'm a Systems Admin and SQL Developer from Washington, UK # add description
-about-author_sub: I enjoy taking complex problems and finding the most efficient solutions, I also love the logic and structure of coding and always strive to write efficent code, whether it be SQL, HTML / CSS or Python.  # add description
+about-author_sub: I enjoy taking complex problems and finding the most efficient solutions, I also love the logic and structure of coding and always strive to write efficent code, whether it be <b>SQL</b>, HTML / CSS or Python.  # add description
 about-author_sub1: When I am not coding, you'll find me in the Gym or Hiking  # add description
 social-twitter: "@DataSiPythonGuy" # add your Twitter handle
 social-facebook: # add your Facebook handle
