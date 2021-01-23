@@ -9,7 +9,7 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: Martin Smith # add your name
 author-img:  martin_smith.jpg # add your photo
-about-author: I am a Systems Admin. Always hungry to keep learning. # add description
+about-author: I'm a Systems Admin and SQL Developer from Washington, UK # add description
 social-twitter: "@DataSiPythonGuy" # add your Twitter handle
 social-facebook: # add your Facebook handle
 social-github: martsmith187 # add your Github handle
