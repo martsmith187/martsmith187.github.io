@@ -7,7 +7,7 @@ img: coding.jpg # Add image post (optional)
 tags: [DataScience, Learn, Python] # add tag
 ---
 
-# **My Notes on Data Science and Machine Learning primarily using Python** 
+#### *My Notes on Data Science and Machine Learning primarily using Python* 
 
 ### Python
 
