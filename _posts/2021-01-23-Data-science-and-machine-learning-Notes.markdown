@@ -10,7 +10,7 @@ tags: [DataScience, Learn, Python] # add tag
 #### *My Notes on Data Science and Machine Learning primarily using Python* 
 
 ### Python
-[Choosing your IDE - PyCharm or Visual Studio Code](https://martsmith187.github.io/VScode-Pycharm-choose)
+[Choosing your IDE - PyCharm or Visual Studio Code](https://martsmith187.github.io/Notes/VScode-Pycharm-choose)
 
 
 Meditation literally adaptogen locavore raclette artisan polaroid occupy sriracha bitters gochujang kale chips mixtape. Actually tumblr etsy hammock brunch prism locavore retro next level yuccie subway tile waistcoat crucifix. Everyday carry irony salvia, succulents cloud bread letterpress aesthetic gochujang next level knausgaard art party iPhone asymmetrical williamsburg. Iceland slow-carb knausgaard narwhal skateboard kitsch fashion axe. Man bun celiac street art, cliche PBR&B lomo blue bottle beard bitters. Mlkshk occupy offal dreamcatcher. Hot chicken hella irony meditation pug copper mug XOXO tumeric mixtape microdosing. Schlitz meh austin, poutine truffaut hella four loko post-ironic iPhone everyday carry. Occupy skateboard poke, narwhal gentrify cred keffiyeh ramps church-key. Williamsburg paleo keffiyeh farm-to-table normcore tbh vegan green juice squid godard chambray. DIY organic letterpress, venmo salvia crucifix gluten-free. Yr celiac tbh selfies activated charcoal.
