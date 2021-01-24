@@ -10,7 +10,6 @@ tags: [DataScience, Learn, Python] # add tag
 #### *My Notes on Data Science and Machine Learning primarily using Python* 
 
 ### Python
-
 #### Choosing your IDE - PyCharm or Visual Studio Code
 
 
